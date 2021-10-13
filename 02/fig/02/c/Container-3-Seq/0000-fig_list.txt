@@ -1,0 +1,66 @@
+
+#### 02-c: 列(sequence)の図版
+
+ |章節  |内容          |    |ファイル名                 |                               |
+ |:-----|:-------------|:---|:--------------------------|
+ |0     |概要          |    |01-a-overview.png          |
+ |0     |概要          |    |01-b-overview.png          |
+ |1-a-1 |包含性        |    |02-a-inclusion.png         |
+ |1-a-1 |演算          |    |02-b-operation.png         |
+ |1-a-1 |連結          |    |02-c-concat.png            |
+ |1-a-1 |スカラ倍      |    |02-d-magnify.png           |
+ |1-a-1 |添え字        |    |02-e-index_access.png      |
+ |1-a-1 |添え字        |例題|02-f-index_access-ex_1.png |
+ |1-a-1 |スライス      |    |03-a-slice_access.png      |
+ |1-a-1 |スライス      |例題|03-b-slice_access-ex_1.png |
+ |1-a-1 |スライス      |例題|03-c-slice_access-ex_2.png |
+ |1-a-1 |スライス      |例題|03-d-slice_access-ex_3.png |
+ |1-a-1 |スライス      |例題|03-e-slice_access-ex_4.png |
+ |1-a-2 |要素数        |    |04-a-length.png            |
+ |1-a-2 |要素数        |例題|04-b-length-ex_1.png       |
+ |1-a-2 |最大最小要素  |    |04-c-max_min.png           |
+ |1-a-2 |最大最小要素  |例題|04-d-max_min-ex_1.png      |
+ |1-a-2 |文字コード    |    |04-e-max_min-char_code.png |
+ |1-a-2 |探索:位置     |    |05-a-search_index.png      |
+ |1-a-2 |探索:個数     |    |05-b-search_count.png      |
+ |1-a-2 |探索:位置(X)  |    |05-c-search_index.png      |
+ |1-a-2 |探索:位置     |例題|05-d-search_index-ex_1.png |
+ |1     |(X)           |    |05-e.png                   |
+ |1-b-1 |上書き:要素   |    |06-a-override_elem.png     |
+ |1-b-1 |上書き:要素   |例題|06-b-override_elem-ex_1.png|
+ |1-b-1 |上書き:部分列 |    |06-c-override_seq.png      |
+ |1-b-1 |上書き:部分列 |例題|06-d-override_seq-ex_1.png |
+ |1-b-1 |上書き:部分列 |例題|06-e-override_seq-ex_2.png |
+ |1-b-2 |拡張          |    |07-a-extend.png            |
+ |1-b-2 |拡張          |例題|07-b-extend-ex_1.png       |
+ |1-b-2 |反復          |    |07-c-iterate.png           |
+ |1-b-2 |反復          |例題|07-d-iterate-ex_1.png      |
+ |1     |              |    |07-e.png                   |
+ |1-b-3 |追加          |    |08-a-append.png            |
+ |1-b-3 |追加          |例題|08-b-append-ex_1.png       |
+ |1-b-3 |拡張          |    |08-c-extend.png            |
+ |1-b-3 |拡張          |例題|08-d-extend-ex_1.png       |
+ |1-b-3 |挿入          |    |09-a-insert.png            |
+ |1-b-3 |挿入          |例題|09-b-insert-ex_1.png       |
+ |1-b-3 |挿入          |例題|09-c-insert-ex_2.png       |
+ |1-b-3 |コピー        |    |10-a-copy.png              |
+ |1-b-3 |コピー        |例題|10-b-copy-ex_1.png         |
+ |1-b-3 |コピー        |例題|10-c-copy-ex_2.png         |
+ |1-b-3 |深いコピー    |    |10-d-deep_copy.png         |
+ |1-b-3 |深いコピー    |例題|10-e-deep_copy-ex_1.png    |
+ |1-b-3 |深いコピー    |例題|10-f-deep_copy-ex_2.png    |
+ |1-b-3 |クリア        |    |11-a-clear.png             |
+ |1-b-3 |要素の除去    |    |11-b-delete.png            |
+ |1-b-3 |要素の除去    |    |11-c-pop.png               |
+ |1-b-3 |要素の除去    |    |11-d-pop.png               |
+ |1-b-3 |要素の除去    |    |11-e-remove.png            |
+ |1-b-3 |反転          |    |12-a-reverse.png           |
+ |1-b-3 |反転          |例題|12-b-reverse-ex_1.png      |
+ |1-b-4 |部分列の削除  |    |13-a-del_slice.png         |
+ |1-b-4 |部分列の削除  |例題|13-c-del_slice-ex_1.png    |
+ |1-c-1 |ハッシュ関数  |    |14-a-hash.png              |
+ |1-c-1 |ハッシュ関数  |例題|14-b-hash-str.png          |
+ |1-c-1 |ハッシュ関数  |例題|14-c-hash-tuple.png        |
+ |1-c-1 |ハッシュ関数  |例題|14-d-hash-int.png          |
+ |1-c-1 |ハッシュ関数  |例題|14-e-hash-list.png         |
+
